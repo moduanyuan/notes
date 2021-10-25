@@ -1,0 +1,6 @@
+[book]
+authors = ["墨断鸢"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "notes"
